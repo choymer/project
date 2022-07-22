@@ -1,0 +1,28 @@
+/* tag selector */
+
+body {
+    background-color: #E7F6F2;
+  }
+
+/* ID selector */
+
+#map {
+    height: 512px;
+    width: 512px;
+    margin: 2% auto;
+
+  }
+
+/* class selector */
+
+.form-control {
+    margin: 2% auto;
+    display: block;
+    width: 40%;
+}
+
+.table {
+    width: auto;
+    margin: auto;
+    margin-bottom: 2%;
+}
